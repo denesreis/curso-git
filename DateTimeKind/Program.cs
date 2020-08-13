@@ -32,6 +32,8 @@ namespace DateTimeKind
 
             Console.WriteLine("Teste de commit");
 
+            Console.WriteLine("Nova mensagem");
+
         }
     }
 }

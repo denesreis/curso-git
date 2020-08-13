@@ -34,6 +34,8 @@ namespace DateTimeKind
 
             Console.WriteLine("Nova mensagem");
 
+            Console.WriteLine("Tenha um bom dia");
+
         }
     }
 }

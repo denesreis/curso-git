@@ -30,6 +30,7 @@ namespace DateTimeKind
             Console.WriteLine("d3 Local Time: " + d3.ToLocalTime());
             Console.WriteLine("d3 Universal Time: " + d3.ToUniversalTime());
 
+            Console.WriteLine("Teste de commit");
 
         }
     }
